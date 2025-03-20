@@ -12,16 +12,13 @@
 
 **10% of the final grade**
 
-This is a preliminary milestone to let you set up goals for your final project and assess the feasibility of your ideas.
-Please, fill the following sections about your project.
-
-*(max. 2000 characters per section)*
-
 ### Dataset
+This project uses two dataset on food impacts :
 
-> Find a dataset (or multiple) that you will explore. Assess the quality of the data it contains and how much preprocessing / data-cleaning it will require before tackling visualization. We recommend using a standard dataset as this course is not about scraping nor data processing.
->
-> Hint: some good pointers for finding quality publicly available datasets ([Google dataset search](https://datasetsearch.research.google.com/), [Kaggle](https://www.kaggle.com/datasets), [OpenSwissData](https://opendata.swiss/en/), [SNAP](https://snap.stanford.edu/data/) and [FiveThirtyEight](https://data.fivethirtyeight.com/)), you could use also the DataSets proposed by the ENAC (see the Announcements section on Zulip).
+The first one was created by (Petterson et al. 2021) ["A multilevel carbon and water footprint dataset of food commodities"](https://www.nature.com/articles/s41597-021-00909-8). It's a dataset reviewing the literature on the carbon and water footprint of different food commodities. The output is an excel file giving the mean carbon footprint of aliment in CO2eq/g, and the water footprint in liters of water/kg across the studies. The foods are categorized by typologies and subtypologies. Additionnal information about the studies and some basic statistic across studies are also available. 
+In our project this dataset is the excel "SuEatableLife_Food_Fooprint_database.xlsx" and is accessible in our data folder.
+
+The second dataset comes from the [Food and Agriculture Organization of the United Nations](https://www.fao.org/faostat/en/#data/QCL). The dataset compiles crop and livestock statistics for 278 products wordlwide since 1961. It contains information about the area harvested, yield, production, stocks, and the number of producing animals slaugthered. More details can be found in the [agricultural production statistic report](https://openknowledge.fao.org/items/ab36b259-d641-4ded-8832-32f579685be7)
 
 ### Problematic
 
@@ -37,10 +34,14 @@ Please, fill the following sections about your project.
 ### Related work
 
 
-> - What others have already done with the data?
-> - Why is your approach original?
-> - What source of inspiration do you take? Visualizations that you found on other websites or magazines (might be unrelated to your data).
-> - In case you are using a dataset that you have already explored in another context (ML or ADA course, semester project...), you are required to share the report of that work to outline the differences with the submission for this class.
+> **What others have already done with the data?**
+    - Plenty of visualisation on food production done with the second dataset can be found[here][https://ourworldindata.org/agricultural-production#article-licence]
+> **Why is our approach original?**
+> **Sources of inspiration**:
+        - A website on the carbon footprint of aliments : https://www.inc-conso.fr/content/quel-est-limpact-carbone-de-votre-alimentation
+        - The water footprint of aliments : https://watercalculator.org/water-footprint-of-food-guide/
+        - water footprint calculator : https://watercalculator.org/wfc2  
+
 
 ## Milestone 2 (18th April, 5pm)
 
@@ -57,3 +58,8 @@ Please, fill the following sections about your project.
 - < 24h: 80% of the grade for the milestone
 - < 48h: 70% of the grade for the milestone
 
+
+
+[https://ourworldindata.org/agricultural-production#article-licence]: https://ourworldindata.org/agricultural-production#article-licence
+1. Petersson, Tashina; Secondi, Luca; Magnani, Andrea; Antonelli, Marta; Dembska, Katarzyna; Valentini, Riccardo; et al. (2021). SU-EATABLE LIFE: a comprehensive database of carbon and water footprints of food commodities. figshare. Dataset. https://doi.org/10.6084/m9.figshare.13271111.v2
+2. FAO. 2024. Agricultural production statistics 2010–2023. FAOSTAT Analytical Briefs, No. 96. Rome.
