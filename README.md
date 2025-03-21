@@ -108,13 +108,16 @@ To better understand data completeness over time, the following plot illustrates
 ### Related work
 
 
-> **What others have already done with the data?**
-    - The Food and Agriculture Organization of the United Nations already made plenty visualizations with the second dataset that can be found [here.][https://ourworldindata.org/agricultural-production#article-licence]
 
+
+> What others have already done with the data?
+
+- The website [SU-EATABLE Life](https://www.sueatablelife.eu/en/the-earth-recommends/index.html) present some visualisation and statistiques on the first dataset.
+- The Food and Agriculture Organization of the United Nations already made plenty visualizations with their dataset that can be found [here.][https://ourworldindata.org/agricultural-production#article-licence]
 
 > Why is our approach original?
 
-Our project stands out because it goes beyond environmental impact to include social and ethical concerns, which are often overlooked in available resources. While many existing tools focus primarily on carbon footprints or water use, we aim for a more holistic perspective, integrating factors like labor conditions, fair trade, and ethical considerations in food production.
+Our project stands out because it goes beyond environmental impact to include social and ethical concerns, which are often overlooked in available resources. While many existing tools focus primarily on carbon footprints or water use, we aim for a more holistic perspective, integrating factors like labour conditions, animal treatment conditions, fair trade, and ethical considerations in food production. While some scientific articles take into account the interactions of those complex factors (Mancini et al. 2023) it's hard to find nice visual representations showing the complexity of "food ethics".
 
 Additionally, our approach is:
 
@@ -127,8 +130,7 @@ While originality is valuable, in this case, the main goal is not to reinvent th
 > Sources of inspiration:
 
 - A website on the carbon footprint of aliments : https://www.inc-conso.fr/content/quel-est-limpact-carbone-de-votre-alimentation
-- The water footprint of aliments : https://watercalculator.org/water-footprint-of-food-guide/
-- water footprint calculator : https://watercalculator.org/wfc2  
+- water footprint calculator : https://watercalculator.org/wfc2
 
 
 ## Milestone 2 (18th April, 5pm)
