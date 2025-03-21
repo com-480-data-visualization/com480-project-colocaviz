@@ -53,7 +53,7 @@ The dataset provides comprehensive information about the **carbon footprint (CF)
 - The carbon footprint dataset contains **324 items**, grouped into **80 common food typologies**.  
 - The water footprint dataset comprises **320 items**, categorized into **72 food typologies**.  
 
-TTo better understand the magnitude of the footprints, we provided some basic statistics:
+To better understand the magnitude of the footprints, we provided some basic statistics:
 
 | WF Statistic | Liters of Water per kg/L of Food Item | cc of Water per g/cc of Food Typology |
 |-------------|---------------------------------------|---------------------------------------|
