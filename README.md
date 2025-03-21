@@ -46,7 +46,7 @@ The motivation is to raise awareness about the hidden impacts of food consumptio
 
 The preliminary analysis of the datasets have been done in the following [notebook](exploratory_analysis.ipynb)
 
-> Carbon and Water Footprint Datasets
+**Carbon and Water Footprint Datasets**
 
 The dataset provides comprehensive information about the **carbon footprint (CF)** and **water footprint (WF)** of a wide range of food items.
 
@@ -81,7 +81,7 @@ Each footprint measurement is based on data from multiple studies. Below is the 
 - Roughly **30% of all items are covered by only one study** regarding their carbon footprint.  
 
 
-> FAO Dataset
+**FAO Dataset**
 
 The dataset covers yearly production data from 1961 to 2023, spanning 245 areas that include individual countries, smaller regions (like islands), and aggregated groups (such as continents or global totals).
 
