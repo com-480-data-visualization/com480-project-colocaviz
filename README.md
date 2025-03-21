@@ -47,7 +47,9 @@ The motivation is to raise awareness about the hidden impacts of food consumptio
 
 > **What others have already done with the data?**
     - Plenty of visualisation on food production done with the second dataset can be found[here][https://ourworldindata.org/agricultural-production#article-licence]
-> **Why is our approach original?**
+
+
+> Why is our approach original?
 
 Our project stands out because it goes beyond environmental impact to include social and ethical concerns, which are often overlooked in available resources. While many existing tools focus primarily on carbon footprints or water use, we aim for a more holistic perspective, integrating factors like labor conditions, fair trade, and ethical considerations in food production.
 
@@ -59,10 +61,11 @@ Additionally, our approach is:
 
 While originality is valuable, in this case, the main goal is not to reinvent the wheel but to create something impactful and accessible using already existing data and studies.
 
-> **Sources of inspiration**:
-        - A website on the carbon footprint of aliments : https://www.inc-conso.fr/content/quel-est-limpact-carbone-de-votre-alimentation
-        - The water footprint of aliments : https://watercalculator.org/water-footprint-of-food-guide/
-        - water footprint calculator : https://watercalculator.org/wfc2  
+> Sources of inspiration:
+
+- A website on the carbon footprint of aliments : https://www.inc-conso.fr/content/quel-est-limpact-carbone-de-votre-alimentation
+- The water footprint of aliments : https://watercalculator.org/water-footprint-of-food-guide/
+- water footprint calculator : https://watercalculator.org/wfc2  
 
 
 ## Milestone 2 (18th April, 5pm)
