@@ -20,6 +20,8 @@ In our project this dataset is the excel "SuEatableLife_Food_Fooprint_database.x
 
 The second dataset comes from the [Food and Agriculture Organization of the United Nations](https://www.fao.org/faostat/en/#data/QCL). The dataset compiles crop and livestock statistics for 278 products wordlwide since 1961. It contains information about the area harvested, yield, production, stocks, and the number of producing animals slaugthered. More details can be found in the [agricultural production statistic report](https://openknowledge.fao.org/items/ab36b259-d641-4ded-8832-32f579685be7)
 
+The two datasets are of high quality and don't require lots of pre-processing.
+
 Another idea — though access to the necessary data is still uncertain — is to use PSILCA, a social life cycle assessment tool, to evaluate the social impact of common food products. This would allow us to incorporate social sustainability factors into our visualizations, complementing the environmental aspects. This tool includes indicators about child labour, forced labour, fair salary, working time, and many others. A similar approach was used in a paper by (Mancini et al. 2023) ["Social footprint of European food production and consumption"](https://www.sciencedirect.com/science/article/pii/S2352550922003013).
 
 ### Problematic
@@ -46,7 +48,7 @@ The motivation is to raise awareness about the hidden impacts of food consumptio
 
 
 > **What others have already done with the data?**
-    - Plenty of visualisation on food production done with the second dataset can be found[here][https://ourworldindata.org/agricultural-production#article-licence]
+    - The Food and Agriculture Organization of the United Nations already made plenty visualizations with the second dataset that can be found [here.][https://ourworldindata.org/agricultural-production#article-licence]
 
 
 > Why is our approach original?
