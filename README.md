@@ -46,7 +46,7 @@ The motivation is to raise awareness about the hidden impacts of food consumptio
 
 The preliminary analysis of the datasets have been done in the following [notebook](exploratory_analysis.ipynb)
 
-**Carbon and Water Footprint Datasets**
+> Carbon and Water Footprint Datasets
 
 The dataset provides comprehensive information about the **carbon footprint (CF)** and **water footprint (WF)** of a wide range of food items.
 
@@ -101,7 +101,7 @@ The dataset captures various types of production data, distributed as follows:
 | Laying                               | 0.006985%              |
 
 
-To better understand data completeness over time, the following plot illustrates the yearly distribution of missing data
+To gain an overview on the data completeness over time, the following plot illustrates the yearly distribution of missing data
 
 ![Yearly NaN Distribution](./images/NansByYear.png)   
 
