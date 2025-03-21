@@ -44,6 +44,67 @@ The motivation is to raise awareness about the hidden impacts of food consumptio
 > Pre-processing of the data set you chose
 > - Show some basic statistics and get insights about the data
 
+The preliminary analysis of the datasets have been done in the following [notebook](exploratory_analysis.ipynb)
+
+**Carbon and Water Footprint Datasets**
+
+The dataset provides comprehensive information about the **carbon footprint (CF)** and **water footprint (WF)** of a wide range of food items.
+
+- The carbon footprint dataset contains **324 items**, grouped into **80 common food typologies**.  
+- The water footprint dataset comprises **320 items**, categorized into **72 food typologies**.  
+
+To better understand the magnitude of the footprints, we've are some basic statistics:
+
+| WF Statistic | Liters of Water per kg/L of Food Item | cc of Water per g/cc of Food Typology |
+|-------------|---------------------------------------|---------------------------------------|
+| Mean        | 7,456.48                              | 4,097.34                               |
+| Std Dev     | 41,948.79                             | 6,651.85                               |
+| Min         | 41.00                                 | 51.00                                  |
+| Mean      | 2,080.00                              | 2,133.00                               |
+| Max         | 731,000.00                            | 51,779.00                              |
+
+| CF Statistic | kg CO₂eq per kg/L of Food Item | g CO₂eq per g/cc of Food Typology |
+|-------------|--------------------------------|----------------------------------|
+| Mean        | 3.10                           | 2.86                             |
+| Std Dev     | 5.76                           | 5.29                             |
+| Min         | 0.109                          | 0.270                            |
+| Mean   | 1.376                          | 1.437                            |
+| Max         | 78.80                          | 78.80                            |
+
+---
+
+Each footprint measurement is based on data from multiple studies. Below is the distribution of the number of studies per food item from the carbon footprint dataset:
+
+![Number of Studies per Food Item (Carbon Footprint)](images/StudiesPerItem.png)  
+
+- The plot is displayed on a log-log scale and appears to follow an **inverse power law distribution**.  
+- Roughly **30% of all items are covered by only one study** regarding their carbon footprint.  
+
+
+> FAO Dataset
+
+The dataset covers yearly production data from 1961 to 2023, spanning 245 areas that include individual countries, smaller regions (like islands), and aggregated groups (such as continents or global totals).
+
+In total, the dataset contains production information for 301 distinct food items.
+
+The dataset captures various types of production data, distributed as follows:
+
+| Production Type                      | Percentage of Entries |
+|--------------------------------------|-----------------------|
+| Production                           | 0.397930%              |
+| Area harvested                       | 0.220079%              |
+| Yield                                | 0.212237%              |
+| Producing Animals/Slaughtered         | 0.071138%              |
+| Stocks                               | 0.041242%              |
+| Yield/Carcass Weight                  | 0.039695%              |
+| Milk Animals                         | 0.010694%              |
+| Laying                               | 0.006985%              |
+
+
+To better understand data completeness over time, the following plot illustrates the yearly distribution of missing data
+
+![Yearly NaN Distribution](./images/NansByYear.png)   
+
 ### Related work
 
 
