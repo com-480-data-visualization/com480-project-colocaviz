@@ -13,12 +13,12 @@
 **10% of the final grade**
 
 ### Dataset
-This project uses two dataset on food impacts :
+This project uses two datasets on food impacts :
 
-The first one was created by (Petterson et al. 2021) ["A multilevel carbon and water footprint dataset of food commodities"](https://www.nature.com/articles/s41597-021-00909-8). It's a dataset reviewing the literature on the carbon and water footprint of different food commodities. The output is an excel file giving the mean carbon footprint of aliment in CO2eq/g, and the water footprint in liters of water/kg across the studies. The foods are categorized by typologies and subtypologies. Additionnal information about the studies and some basic statistic across studies are also available. 
-In our project this dataset is the excel "SuEatableLife_Food_Fooprint_database.xlsx" and is accessible in our data folder.
+The first one was created by (Petterson et al. 2021) ["A multilevel carbon and water footprint dataset of food commodities"](https://www.nature.com/articles/s41597-021-00909-8). It's a dataset reviewing the literature on the carbon and water footprint of different food commodities. The output is an Excel file giving the mean carbon footprint of aliment in CO2eq/g, and the water footprint in liters of water/kg across the studies. The foods are categorized by typologies and subtypologies. Additional information about the studies and some basic statistics across studies are also available. 
+In our project, this dataset is the excel "SuEatableLife_Food_Fooprint_database.xlsx" and is accessible in our data folder.
 
-The second dataset comes from the [Food and Agriculture Organization of the United Nations](https://www.fao.org/faostat/en/#data/QCL). The dataset compiles crop and livestock statistics for 278 products wordlwide since 1961. It contains information about the area harvested, yield, production, stocks, and the number of producing animals slaugthered. More details can be found in the [agricultural production statistic report](https://openknowledge.fao.org/items/ab36b259-d641-4ded-8832-32f579685be7). This dataset can be found in our folder data and includes all the csv starting with Production_Crops_Livestock 
+The second dataset comes from the [Food and Agriculture Organization of the United Nations](https://www.fao.org/faostat/en/#data/QCL). The dataset compiles crop and livestock statistics for 278 products worldwide since 1961. It contains information about the area harvested, yield, production, stocks, and the number of producing animals slaughtered. More details can be found in the [agricultural production statistic report](https://openknowledge.fao.org/items/ab36b259-d641-4ded-8832-32f579685be7). This dataset can be found in our folder data and includes all the CSV starting with Production_Crops_Livestock 
 
 
 The two datasets are of high quality and don't require lots of pre-processing.
@@ -29,7 +29,7 @@ Another idea — though access to the necessary data is still uncertain — is t
 
 > What are we trying to show with our visualization?
 
-The goal of this project is to highlight the environmental, social, and ethical impacts of different food products through engaging data visualizations. By combining data on carbon and water footprints with production, yield, social impact, number of slaughtered animals and other relevant factors, we aim to present a clear and intuitive way to understand which foods have the highest and lowest impacts.
+The goal of this project is to highlight the environmental, social, and ethical impacts of different food products through engaging data visualizations. By combining carbon and water footprint data with production, yield, social impact, number of slaughtered animals and other relevant factors, we aim to present a clear and intuitive way to understand which foods have the highest and lowest impacts.
 
 > Think of an overview for the project, your motivation, and the target audience.
 
@@ -38,14 +38,14 @@ This project will take the form of an interactive website designed to serve as a
 - Data visualizations showcasing high- and low-impact foods, using intuitive design elements like food icon scaling.
 - An interactive basket tool (with a limited number of food products), where users can build their grocery list and see real-time visualizations and feedback on the environmental and social impact of their choices.
 
-The motivation is to raise awareness about the hidden impacts of food consumption, to challenge common misconceptions, and provide a user-friendly tool for making more informed choices. The target audience includes urban consumers who shop primarily in supermarkets, though the insights are valuable for anyone looking to rethink their consumption habits. The ultimate aim is to empower individuals to make more sustainable choices while making the learning process engaging and accessible.
+The motivation is to raise awareness about the hidden impacts of food consumption, to challenge common misconceptions, and to provide a user-friendly tool for making more informed choices. The target audience includes urban consumers who shop primarily in supermarkets, though the insights are valuable for anyone looking to rethink their consumption habits. The ultimate aim is to empower individuals to make more sustainable choices while making the learning process engaging and accessible.
 
 ### Exploratory Data Analysis
 
 > Pre-processing of the data set you chose
 > - Show some basic statistics and get insights about the data
 
-The preliminary analysis of the datasets have been done in the following [notebook](exploratory_analysis.ipynb)
+The preliminary analysis of the datasets has been done in the following [notebook](exploratory_analysis.ipynb)
 
 **Carbon and Water Footprint Datasets**
 
@@ -113,12 +113,12 @@ To gain an overview on the data completeness over time, the following plot illus
 
 > What others have already done with the data?
 
-- The website [SU-EATABLE Life](https://www.sueatablelife.eu/en/the-earth-recommends/index.html) present some visualisation and statistiques on the first dataset.
-- The Food and Agriculture Organization of the United Nations already made plenty visualizations with their dataset that can be found [here.][https://ourworldindata.org/agricultural-production#article-licence]
+- The website [SU-EATABLE Life](https://www.sueatablelife.eu/en/the-earth-recommends/index.html) presents some visualisation and statistics on the first dataset.
+- The Food and Agriculture Organization of the United Nations already made plenty of visualizations with their dataset that can be found [here.][https://ourworldindata.org/agricultural-production#article-licence]
 
 > Why is our approach original?
 
-Our project stands out because it goes beyond environmental impact to include social and ethical concerns, which are often overlooked in available resources. While many existing tools focus primarily on carbon footprints or water use, we aim for a more holistic perspective, integrating factors like labour conditions, animal treatment conditions, fair trade, and ethical considerations in food production. While some scientific articles take into account the interactions of those complex factors (Mancini et al. 2023) it's hard to find nice visual representations showing the complexity of "food ethics".
+Our project stands out because it goes beyond environmental impact to include social and ethical concerns, which are often overlooked in available resources. While many existing tools focus primarily on carbon footprints or water use, we aim for a more holistic perspective, integrating factors like labour conditions, animal treatment conditions, fair trade, and ethical considerations in food production. While some scientific articles takes into account the interactions of those complex factors (Mancini et al. 2023) it's hard to find nice visual representations showing the complexity of "food ethics".
 
 Additionally, our approach is:
 
@@ -130,8 +130,8 @@ While originality is valuable, in this case, the main goal is not to reinvent th
 
 > Sources of inspiration:
 
-- A website on the carbon footprint of aliments : https://www.inc-conso.fr/content/quel-est-limpact-carbone-de-votre-alimentation
-- water footprint calculator : https://watercalculator.org/wfc2
+- A website on the carbon footprint of aliments: https://www.inc-conso.fr/content/quel-est-limpact-carbone-de-votre-alimentation
+- water footprint calculator: https://watercalculator.org/wfc2
 
 
 ## Milestone 2 (18th April, 5pm)
