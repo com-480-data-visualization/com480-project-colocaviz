@@ -3,9 +3,11 @@
   "children": [
     {
       "name": "agricultural processed",
+      "value": 1.49,
       "children": [
         {
           "name": "biscuits",
+          "value": 1.47,
           "children": [
             {
               "name": "chocolate or cream filled cookie",
@@ -19,6 +21,7 @@
         },
         {
           "name": "bread",
+          "value": 0.98,
           "children": [
             {
               "name": "bread multicereal",
@@ -40,6 +43,7 @@
         },
         {
           "name": "crackers",
+          "value": 0.98,
           "children": [
             {
               "name": "flavored cracker",
@@ -57,6 +61,7 @@
         },
         {
           "name": "drink",
+          "value": 1.47,
           "children": [
             {
               "name": "beer",
@@ -78,6 +83,7 @@
         },
         {
           "name": "grain flour",
+          "value": 0.87,
           "children": [
             {
               "name": "oat meal",
@@ -87,6 +93,7 @@
         },
         {
           "name": "margarine",
+          "value": 1.39,
           "children": [
             {
               "name": "margarine",
@@ -96,6 +103,7 @@
         },
         {
           "name": "oil",
+          "value": 2.11,
           "children": [
             {
               "name": "olive oil",
@@ -125,6 +133,7 @@
         },
         {
           "name": "pasta",
+          "value": 2.18,
           "children": [
             {
               "name": "egg pasta",
@@ -138,6 +147,7 @@
         },
         {
           "name": "sauce",
+          "value": 1.74,
           "children": [
             {
               "name": "ketchup",
@@ -163,6 +173,7 @@
         },
         {
           "name": "sugar",
+          "value": 0.78,
           "children": [
             {
               "name": "beet sugar",
@@ -176,6 +187,7 @@
         },
         {
           "name": "sweets",
+          "value": 1.99,
           "children": [
             {
               "name": "cakes and croissant",
@@ -189,6 +201,7 @@
         },
         {
           "name": "vegetables",
+          "value": 0.51,
           "children": [
             {
               "name": "corn canned",
@@ -206,6 +219,7 @@
         },
         {
           "name": "vegetal proteins",
+          "value": 2.27,
           "children": [
             {
               "name": "quorne",
@@ -223,6 +237,7 @@
         },
         {
           "name": "yeast compressed",
+          "value": 0.82,
           "children": [
             {
               "name": "yeast compressed",
@@ -234,9 +249,11 @@
     },
     {
       "name": "animal husbandry",
+      "value": 8.92,
       "children": [
         {
           "name": "beef meat",
+          "value": 21.86,
           "children": [
             {
               "name": "beef bone free meat",
@@ -250,6 +267,7 @@
         },
         {
           "name": "cheese",
+          "value": 8.11,
           "children": [
             {
               "name": "cream",
@@ -279,6 +297,7 @@
         },
         {
           "name": "dairy products",
+          "value": 4.03,
           "children": [
             {
               "name": "butter",
@@ -292,6 +311,7 @@
         },
         {
           "name": "edible insects (mealworms)",
+          "value": 2.84,
           "children": [
             {
               "name": "mealworm",
@@ -301,6 +321,7 @@
         },
         {
           "name": "eggs",
+          "value": 3.2,
           "children": [
             {
               "name": "egg",
@@ -310,6 +331,7 @@
         },
         {
           "name": "lamb meat",
+          "value": 20.97,
           "children": [
             {
               "name": "lamb bone free meat",
@@ -323,6 +345,7 @@
         },
         {
           "name": "milk",
+          "value": 1.44,
           "children": [
             {
               "name": "cow milk",
@@ -332,6 +355,7 @@
         },
         {
           "name": "pork meat",
+          "value": 5.52,
           "children": [
             {
               "name": "bacon",
@@ -349,6 +373,7 @@
         },
         {
           "name": "poultry meat",
+          "value": 3.13,
           "children": [
             {
               "name": "chicken bone free meat",
@@ -360,9 +385,11 @@
     },
     {
       "name": "crops",
+      "value": 0.54,
       "children": [
         {
           "name": "coffee",
+          "value": 0.49,
           "children": [
             {
               "name": "coffee green",
@@ -372,6 +399,7 @@
         },
         {
           "name": "dried fruit",
+          "value": 0.81,
           "children": [
             {
               "name": "date",
@@ -385,6 +413,7 @@
         },
         {
           "name": "fruit",
+          "value": 0.4,
           "children": [
             {
               "name": "apple",
@@ -502,6 +531,7 @@
         },
         {
           "name": "grains",
+          "value": 0.57,
           "children": [
             {
               "name": "barley",
@@ -535,6 +565,7 @@
         },
         {
           "name": "legumes",
+          "value": 0.52,
           "children": [
             {
               "name": "bean",
@@ -564,6 +595,7 @@
         },
         {
           "name": "nuts",
+          "value": 1.11,
           "children": [
             {
               "name": "chestnut",
@@ -589,6 +621,7 @@
         },
         {
           "name": "seeds",
+          "value": 0.88,
           "children": [
             {
               "name": "sesam seed",
@@ -602,6 +635,7 @@
         },
         {
           "name": "spicies",
+          "value": 0.84,
           "children": [
             {
               "name": "chilly",
@@ -615,6 +649,7 @@
         },
         {
           "name": "tubers",
+          "value": 0.27,
           "children": [
             {
               "name": "potato",
@@ -628,6 +663,7 @@
         },
         {
           "name": "vegetables",
+          "value": 0.51,
           "children": [
             {
               "name": "artichoke",
@@ -699,9 +735,11 @@
     },
     {
       "name": "fishing",
+      "value": 5.19,
       "children": [
         {
           "name": "fish",
+          "value": 5.19,
           "children": [
             {
               "name": "carp",
