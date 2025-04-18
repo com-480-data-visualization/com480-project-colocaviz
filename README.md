@@ -8,7 +8,7 @@
 
 [Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
 
-The webiste created can be found [here](https://githublouisepfl.github.io/site_colocaviz/)
+The webiste created can be found [here](https://githublouisepfl.github.io/site_colocaviz/).
 
 ## Milestone 1 (21st March, 5pm)
 
