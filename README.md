@@ -8,6 +8,8 @@
 
 [Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
 
+The webiste created can be found [here](https://githublouisepfl.github.io/site_colocaviz/)
+
 ## Milestone 1 (21st March, 5pm)
 
 **10% of the final grade**
@@ -137,7 +139,7 @@ While originality is valuable, in this case, the main goal is not to reinvent th
 ## Milestone 2 (18th April, 5pm)
 
 **10% of the final grade**
-
+Milestone 2 is the pdf named milestone 2.
 
 ## Milestone 3 (30th May, 5pm)
 
