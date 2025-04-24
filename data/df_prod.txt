@@ -165,7 +165,6 @@ beeswax
 "green corn (maize)"
 taro
 yam
-asparagu
 "canary seed"
 "cereals n.e.c."
 "cream, fresh"
