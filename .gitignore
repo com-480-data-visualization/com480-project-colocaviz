@@ -1,2 +1,7 @@
 *.xlsx
 data/data_per_country.json
+data/Production_Crops_Livestock_E_Elements.csv
+data/Production_Crops_Livestock_E_Flags.csv
+data/Production_Crops_Livestock_E_ItemCodes.csv
+data/Production_Crops_Livestock_E_AreaCodes.csv
+data/Production_Crops_Livestock_E_All_Data.csv
