@@ -157,7 +157,7 @@ Welcome to **Colocaviz**, a Pocket Guide to Mindful Eating
 
 ### 🎥 Presentation & Documentation
 
-* 📽️ [**Presentation Video**](#)
+* 📽️ [**Presentation Video**](https://www.youtube.com/watch?v=KltZUAt0chg)
 * 📘 [**Process Book**](https://github.com/com-480-data-visualization/com480-project-colocaviz/blob/main/Colocaviz%20Process%20Book.pdf)
 * 🌐 [**Visit the Website**](https://githublouisepfl.github.io/site_colocaviz/)
 
