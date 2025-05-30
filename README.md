@@ -157,7 +157,7 @@ Welcome to **Colocaviz**, a Pocket Guide to Mindful Eating
 
 ### 🎥 Presentation & Documentation
 
-* 📽️ [**Presentation Video**](https://youtu.be/KltZUAt0chg)
+* 📽️ [**Presentation Video**](#)
 * 📘 [**Process Book**](https://github.com/com-480-data-visualization/com480-project-colocaviz/blob/main/Colocaviz%20Process%20Book.pdf)
 * 🌐 [**Visit the Website**](https://githublouisepfl.github.io/site_colocaviz/)
 
@@ -166,21 +166,19 @@ Welcome to **Colocaviz**, a Pocket Guide to Mindful Eating
 ### 🗂️ Project Structure
 
 ```
-/website
+/Website
 │
-├── /assets
-│   ├── /js           # JavaScript files used in the website
-│   └── /css          # Stylesheets
+├── /assets/              # Static assets
+│   ├── /css/             # Stylesheets
+│   └── /js/              # JavaScript files
 │
-├── /data             # JSON files with carbon, water footprint & production data
+├── /data/                # JSON data (carbon, water footprint, production)
+├── /svg_files/           # SVGs for area-based visualizations
+├── *.html                # Individual HTML pages
 │
-├── /svg_files        # SVGs for area-based visualizations
-│
-├── *.html            # Individual HTML pages of the site
-│
-/data                 # Raw datasets
-/images               # Visuals used in README and documentation
-miscellaneous         # Exploratory notebooks, drafts, and other files
+├── /Milestone1&2/        # Files from previous milestones
+├── /images/              # Visuals for README and documentation
+ProcessBook.pdf       # Process book for the ColocaViz website
 ```
 
 ---
@@ -192,13 +190,13 @@ To launch the website on your local machine:
 1. **Clone the repository**
 
    ```bash
-   git clone git@github.com:com-480-data-visualization/com-480-project-statiswiss.git
+   git clone git@github.com:com-480-data-visualization/com480-project-colocaviz.git
    ```
 
 2. **Navigate to the website directory**
 
    ```bash
-   cd com-480-project-statiswiss/website
+   cd Website
    ```
 
 3. **Start a local HTTP server (using python for example)**
