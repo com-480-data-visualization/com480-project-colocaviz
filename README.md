@@ -10,9 +10,11 @@
 
 The webiste created can be found [here](https://githublouisepfl.github.io/site_colocaviz/).
 
-## Milestone 1 (21st March, 5pm)
 
-**10% of the final grade**
+
+## Milestone 1
+<details>
+<summary>Click to show more</summary>
 
 ### Dataset
 This project uses two datasets on food impacts :
@@ -135,24 +137,74 @@ While originality is valuable, in this case, the main goal is not to reinvent th
 - A website on the carbon footprint of aliments: https://www.inc-conso.fr/content/quel-est-limpact-carbone-de-votre-alimentation
 - water footprint calculator: https://watercalculator.org/wfc2
 
-
-## Milestone 2 (18th April, 5pm)
-
-**10% of the final grade**
-Milestone 2 is the pdf named milestone 2.
-
-## Milestone 3 (30th May, 5pm)
-
-**80% of the final grade**
-
-
-## Late policy
-
-- < 24h: 80% of the grade for the milestone
-- < 48h: 70% of the grade for the milestone
-
-
+> Sources
 
 [https://ourworldindata.org/agricultural-production#article-licence]: https://ourworldindata.org/agricultural-production#article-licence
 1. Petersson, Tashina; Secondi, Luca; Magnani, Andrea; Antonelli, Marta; Dembska, Katarzyna; Valentini, Riccardo; et al. (2021). SU-EATABLE LIFE: a comprehensive database of carbon and water footprints of food commodities. figshare. Dataset. https://doi.org/10.6084/m9.figshare.13271111.v2
 2. FAO. 2024. Agricultural production statistics 2010–2023. FAOSTAT Analytical Briefs, No. 96. Rome.
+</details>
+
+## Milestone 2
+<details>
+<summary>Click to show more</summary>
+**10% of the final grade**
+Milestone 2 is the pdf named milestone 2.
+</details>
+
+## Milestone 3
+
+Welcome to **Colocaviz**, a Pocket Guide to Mindful Eating
+
+### 🎥 Presentation & Documentation
+
+* 📽️ [**Presentation Video**](#)
+* 📘 [**Process Book**](#)
+* 🌐 [**Visit the Website**](https://githublouisepfl.github.io/site_colocaviz/)
+
+---
+
+### 🗂️ Project Structure
+
+```
+/website
+│
+├── /assets
+│   ├── /js           # JavaScript files used in the website
+│   └── /css          # Stylesheets
+│
+├── /data             # JSON files with carbon, water footprint & production data
+│
+├── /svg_files        # SVGs for area-based visualizations
+│
+├── *.html            # Individual HTML pages of the site
+│
+/data                 # Raw datasets
+/images               # Visuals used in README and documentation
+miscellaneous         # Exploratory notebooks, drafts, and other files
+```
+
+---
+
+### 🖥️ Running the Website Locally
+
+To launch the website on your local machine:
+
+1. **Clone the repository**
+
+   ```bash
+   git clone git@github.com:com-480-data-visualization/com-480-project-statiswiss.git
+   ```
+
+2. **Navigate to the website directory**
+
+   ```bash
+   cd com-480-project-statiswiss/website
+   ```
+
+3. **Start a local HTTP server (using python for example)**
+
+   ```bash
+   python3 -m http.server
+   ```
+
+4. Open your browser and visit `http://localhost:8000`
