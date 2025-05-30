@@ -176,8 +176,8 @@ Welcome to **Colocaviz**, a Pocket Guide to Mindful Eating
 ├── /svg_files/           # SVGs for area-based visualizations
 ├── *.html                # Individual HTML pages
 │
-├── /Milestone1&2/        # Files from previous milestones
-├── /images/              # Visuals for README and documentation
+/Milestone1&2/        # Files from previous milestones
+/images/              # Visuals for README and documentation
 ProcessBook.pdf       # Process book for the ColocaViz website
 ```
 
