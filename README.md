@@ -151,7 +151,7 @@ While originality is valuable, in this case, the main goal is not to reinvent th
 Milestone 2 is the pdf named milestone 2.
 </details>
 
-## 🚀 Milestone 3 – **Colocaviz**
+## Milestone 3
 
 Welcome to **Colocaviz**, a Pocket Guide to Mindful Eating
 
@@ -159,7 +159,7 @@ Welcome to **Colocaviz**, a Pocket Guide to Mindful Eating
 
 * 📽️ [**Presentation Video**](#)
 * 📘 [**Process Book**](#)
-* 🌐 [**Visit the Website**](#https://githublouisepfl.github.io/site_colocaviz/)
+* 🌐 [**Visit the Website**](https://githublouisepfl.github.io/site_colocaviz/)
 
 ---
 
