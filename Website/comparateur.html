@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Comparison Tool</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body class="comparison">
+
+  <header>
+    <nav class="top-nav">
+      <a href="index.html">🏠 Home</a>
+      <a href="viz.html">🌍 Interactive Visualizations</a>
+      <a href="inventory.html">📝 Inventory</a>
+      <a href="comparateur.html" class="active">📊 Comparison</a>
+      <a href="basket.html">🛒 Basket</a>
+    </nav>
+  </header>
+
+  <div class="container-comp">
+    <h1>📊 Food Comparison Tool</h1>
+
+    <div class="selection-interface-comp">
+      <!-- Breadcrumb-based selector on the left -->
+      <div class="breadcrumb-selector-comp">
+        <h2>Browse Categories</h2>
+        <div class="breadcrumb-comp" id="breadcrumb">
+          <span class="breadcrumb-item active" data-path="root">Home</span>
+        </div>
+        <div class="category-list-comp" id="categoryList">
+          <!-- Categories/foods will be dynamically generated here -->
+          <div class="loading-comp">Loading data...</div>
+        </div>
+      </div>
+
+      <!-- Selected foods basket on the right -->
+      <div class="food-basket-comp">
+        <h2>Selected Foods</h2>
+        <div id="selectedFoods" class="selected-foods-comp">
+          <p class="empty-basket-comp">No food selected</p>
+        </div>
+        <button id="compareBtn" disabled>Compare</button>
+      </div>
+    </div>
+
+    <div class="chart-container-comp">
+      <canvas id="comparisonChart" width="600" height="300"></canvas>
+    </div>
+  </div>
+
+  <script src="assets/js/comparateur.js"></script>
+</body>
+</html>

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Colocaviz home page</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/animals.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://unpkg.com/topojson-client@3"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.min.js"></script>
+
+
+</head>
+
+<body class="home-page">
+
+    <div class="chosen-food-element"> <span id="chosen-food-name">Food</span></div>
+
+    <header>
+        <nav class="top-nav">
+            <a href="index.html">🏠 Home</a>
+            <a href="viz.html" class="active">🌍 Interactive Visualizations</a>
+            <a href="inventory.html">📝 Inventory</a>
+            <a href="comparateur.html">📊 Comparison</a>
+            <a href="basket.html">🛒 Basket</a>
+        </nav>
+    </header>
+
+    <div class="container" id="footprint-container">
+
+        <div class="footprint-container">
+            <h2 class="footprint-title">Carbon footprint (in kg CO₂e / kg)</h2>
+            <div class="footprint" id="carbon"></div>
+        </div>
+
+        <div class="footprint-container">
+            <h2 class="footprint-title">Water footprint (in L / kg)</h2>
+            <div class="footprint" id="water"></div>
+        </div>
+
+        <div class="menu">
+            <div class="active-element"> <span id="active-menu-name">Food</span></div>
+            <a href="#chosen-food-name" data-target="chosen-food-name">Footprint</a>
+            <a href="#area-harvested-container" data-target="area-harvested-container">Area harvested per country</a>
+            <!-- <a href="#">Production per country</a> -->
+            <a href="#animals-slaughtered-container" data-target="animals-slaughtered-container">Animals Slaughtered</a>
+        </div>
+
+    </div>
+
+    <div class="map-text-container" id = "area-harvested-container">
+        <h1>Area harvested</h1>
+      <p >Click on a country to see the area harvested for each food product.</p>
+    <div class="maps-container" id ="maps-container-area">
+    <div id="visualization-container-area"></div>
+  </div>
+  <div class="sliderContainer" id="time-slider-container"></div>
+  </div>
+
+  <div class="map-text-container" id = "animals-slaughtered-container">
+        <h1>Animal slaughtered</h1>
+      <p >Click on a country to see the area harvested for each food product.</p>
+    <div class="maps-container" id ="maps-container-animals-slaughtered">
+    <div id="visualization-container-animals-slaughtered"></div>
+  </div>
+  <div class="sliderContainer" id="time-slider-container-animals-slaughtered"></div>
+  </div>
+
+    <script src="assets/js/treemap_water.js" defer></script>    
+    <script src="assets/js/treemap_carbon.js" defer></script>
+    <script src="assets/js/scroll_menu.js" defer></script>
+    <!-- Include our modular visualization code -->
+    <script src="assets/js/world_map_settings.js"></script>
+    
+    <script src="assets/js/animal_slaughtered.js"></script>
+    <script src="assets/js/area_harvested.js"></script>
+    <script>
+    //Initialize visualization when the page loads
+    document.addEventListener('DOMContentLoaded', () => {
+      window.viz = createareaharvestedVisualizationPage(
+            smallAreaFunction = null,
+            width = 1000, 
+            height = 500,
+            containerId = 'visualization-container-area',
+            element_to_visualize = 'area harvested',
+            id_indicator = 'area-harvested'
+        );
+    });
+    document.addEventListener('DOMContentLoaded', () => {
+    window.viz_slaughtered = new Promise((resolve) => {
+      
+        const vizObject = createanimalslaughteredVisualizationPage(
+            smallAreaFunction = null,
+            width = 1000, 
+            height = 500,
+            containerId = 'visualization-container-animals-slaughtered',
+            element_to_visualize = 'producing animals/slaughtered',
+            id_indicator = 'animals-slaughtered'
+        );
+        resolve(vizObject);
+          });
+      });
+    
+  </script>
+
+</body>
+
+</html>

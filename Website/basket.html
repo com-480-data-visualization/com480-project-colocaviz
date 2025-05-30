@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Groceries simulator</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body class="basket-page">
+    
+    <header>
+        <nav class="top-nav">
+          <a href="index.html">🏠 Home</a>
+          <a href="viz.html">🌍 Interactive Visualizations</a>
+          <a href="inventory.html">📝 Inventory</a>
+          <a href="comparateur.html">📊 Comparison</a>
+          <a href="basket.html" class="active">🛒 Basket</a>
+        </nav>
+    </header>
+
+    <div class="basket-container">
+        <header class="basket-header">
+            <h1>🛒 Groceries Impact Simulator</h1>
+        </header>
+
+
+        <div class="info-section">
+            <div class="instructions">
+                <h3>📋 Instructions</h3>
+                <p>
+                    Select a food category to browse items. Enter the quantity (in grams) and click "Add" to include it in your basket.
+                    The tool will show you the water use 💧 and carbon emissions 🌫️ based on the content of your basket.
+                </p>
+            </div>
+            <div class="reference-info">
+                <h3>🌍 Reference Values</h3>
+                <p>
+                    To limit global warming to +1.5°C, the Paris Agreement sets a target of 2 tons of CO₂e per person per year by 2050.
+                    This equals <strong>5.47 kg CO₂e per day</strong>.
+                </p>
+                <p>
+                    For water use, there is no fixed recommendation, but the average in Switzerland is about
+                    <strong>4,200 liters per person per day</strong>.
+                </p>
+            </div>
+        </div>
+
+        <nav id="breadcrumb">
+            <span class="breadcrumb-item" data-level="0">food category</span>
+        </nav>
+
+        <main>
+            <section id="category-container"></section>
+            <section id="subcategory-container" class="hidden"></section>
+            <section id="item-container" class="hidden"></section>
+        </main>
+
+        <aside id="cart">
+            <h2>🛒 Basket</h2>
+            <ul id="cart-list"></ul>
+            <div id="totals">
+                <p>Used water 💧 : <span id="water-total">0</span> liters</p>
+                <p>Carbon emissions 🌫️ : <span id="carbon-total">0</span> kg CO₂e</p>
+            </div>
+            <button id="clear-cart">Empty the basket</button>
+        </aside>
+    </div>
+
+    <script src="assets/js/basket.js"></script>
+</body>
+</html>
+
