@@ -1,0 +1,324 @@
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"BEER IN CAN","CF_food_item":0.693,"food_commodity_typology":"BEER"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"BEER IN GLASS","CF_food_item":0.9605,"food_commodity_typology":"BEER"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"BEER MODULAR CAN","CF_food_item":0.5306,"food_commodity_typology":"BEER"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"CHOCOLATE OR CREAM FILLED COOKIES**","CF_food_item":1.533,"food_commodity_typology":"BISCUITS"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"SIMPLE COOKIES**","CF_food_item":1.39075,"food_commodity_typology":"BISCUITS"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"MINERAL WATER*","CF_food_item":0.491,"food_commodity_typology":"BOTTLED WATER* (mineral water)"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"BREAD MULTICEREAL**","CF_food_item":0.703,"food_commodity_typology":"BREAD"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"BREAD PLAIN**","CF_food_item":0.885,"food_commodity_typology":"BREAD"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"BREAD WHOLE**","CF_food_item":0.772,"food_commodity_typology":"BREAD"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"BREAD FROZEN (F)*","CF_food_item":1.31,"food_commodity_typology":"BREAD FROZEN* (rolls frozen)"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"CORNFLAKES*","CF_food_item":2.64,"food_commodity_typology":"BREAKFAST CEREALS* (cornflakes)"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"DARK CHOCOLATE","CF_food_item":2.71,"food_commodity_typology":"CHOCOLATE"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"MILK CHOCOLATE","CF_food_item":3.6,"food_commodity_typology":"CHOCOLATE"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"COFFEE GROUND","CF_food_item":5.129285715,"food_commodity_typology":"COFFEE GROUND & PARCHMENT"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"COFFEE PARCHMENT","CF_food_item":8.29,"food_commodity_typology":"COFFEE GROUND & PARCHMENT"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"COFFEE DRIP FILTERED (L)","CF_food_item":0.595,"food_commodity_typology":"COFFEE LIQUID"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"COFFEE SOLUBLE POWDER (L)","CF_food_item":0.33,"food_commodity_typology":"COFFEE LIQUID"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"ESPRESSO (L)","CF_food_item":0.55,"food_commodity_typology":"COFFEE LIQUID"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"FLAVORED CRACKERS**","CF_food_item":0.9265,"food_commodity_typology":"CRACKERS"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"PLAIN CRACKERS**","CF_food_item":1.34825,"food_commodity_typology":"CRACKERS"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"WHOLEGRAIN CRACKERS**","CF_food_item":0.9725,"food_commodity_typology":"CRACKERS"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"CRISPBREAD**","CF_food_item":1.348,"food_commodity_typology":"CRISPBREAD**"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"KETCHUP","CF_food_item":1.464,"food_commodity_typology":"DRESSING"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"MAYONNAISE","CF_food_item":2.04,"food_commodity_typology":"DRESSING"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"TEMPE'","CF_food_item":1.1,"food_commodity_typology":"DRESSING"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"EGG PASTA*","CF_food_item":3.1511,"food_commodity_typology":"EGG PASTA*"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"RASPBERRIES (F)*","CF_food_item":1.175,"food_commodity_typology":"FRUIT FROZEN* (raspberry)"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"APPLE JUICE (I)","CF_food_item":2.84,"food_commodity_typology":"FRUIT JUICE (imported ingredients)"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"BLUEBERRY JUICE (I)","CF_food_item":3.0,"food_commodity_typology":"FRUIT JUICE (imported ingredients)"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"CRANBERRY JUICE (I)","CF_food_item":2.88,"food_commodity_typology":"FRUIT JUICE (imported ingredients)"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"FIG JUICE (I)","CF_food_item":3.2,"food_commodity_typology":"FRUIT JUICE (imported ingredients)"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"KIWI JUICE (I)","CF_food_item":2.84,"food_commodity_typology":"FRUIT JUICE (imported ingredients)"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"MANGO JUICE (I)","CF_food_item":2.96,"food_commodity_typology":"FRUIT JUICE (imported ingredients)"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"PINEAPPLE JUICE (I)","CF_food_item":2.78,"food_commodity_typology":"FRUIT JUICE (imported ingredients)"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"STRAWBERRY JUICE (I)","CF_food_item":2.68,"food_commodity_typology":"FRUIT JUICE (imported ingredients)"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"ORANGE JUICE","CF_food_item":0.461,"food_commodity_typology":"FRUIT JUICE LOCAL"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"PEAR JUICE","CF_food_item":0.49045,"food_commodity_typology":"FRUIT JUICE LOCAL"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"BUCKWHEAT FLOUR","CF_food_item":1.96,"food_commodity_typology":"GRAIN FLOUR"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"DURUM WHEAT","CF_food_item":0.46712,"food_commodity_typology":"GRAIN FLOUR"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"GRAHAM FLOUR","CF_food_item":0.47,"food_commodity_typology":"GRAIN FLOUR"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"MAIZE FLOUR","CF_food_item":1.31,"food_commodity_typology":"GRAIN FLOUR"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"MILLET FLOUR","CF_food_item":1.37,"food_commodity_typology":"GRAIN FLOUR"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"OAT MEAL","CF_food_item":0.87,"food_commodity_typology":"GRAIN FLOUR"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"SORGHUM FLOUR","CF_food_item":1.33,"food_commodity_typology":"GRAIN FLOUR"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"WHEAT PLAIN FLOUR","CF_food_item":0.52,"food_commodity_typology":"GRAIN FLOUR"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"WHOLE WHEAT FLOUR","CF_food_item":0.3647164179,"food_commodity_typology":"GRAIN FLOUR"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"CHOCOLATE","CF_food_item":6.6,"food_commodity_typology":"ICE CREAM"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"ICE CREAM","CF_food_item":1.02,"food_commodity_typology":"ICE CREAM"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"VANILLA","CF_food_item":4.3,"food_commodity_typology":"ICE CREAM"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"AZUKI BEAN FLOUR","CF_food_item":1.32,"food_commodity_typology":"LEGUME FLOUR"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"MUNG BEAN FLOUR","CF_food_item":1.49,"food_commodity_typology":"LEGUME FLOUR"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"SOY MEAL","CF_food_item":0.62,"food_commodity_typology":"LEGUME FLOUR"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"BEANS IN CAN","CF_food_item":0.109,"food_commodity_typology":"LEGUMES CANNED"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"GREEN BEANS IN CAN","CF_food_item":1.45,"food_commodity_typology":"LEGUMES CANNED"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"BEANS (F)","CF_food_item":1.77,"food_commodity_typology":"LEGUMES FROZEN"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"GREEN BEANS (F)","CF_food_item":2.741769912,"food_commodity_typology":"LEGUMES FROZEN"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"MARGARINE*","CF_food_item":1.39,"food_commodity_typology":"MARGARINE*"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"ALMOND COVERED WITH CHOCOLATE","CF_food_item":4.8,"food_commodity_typology":"NUTS COVERED WITH CHOCOLATE"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"HAZELNUT COVERED WITH CHOCOLATE","CF_food_item":3.43,"food_commodity_typology":"NUTS COVERED WITH CHOCOLATE"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"ALMOND PASTE","CF_food_item":2.98,"food_commodity_typology":"NUTS PASTE"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"HAZELNUT CREAM","CF_food_item":2.71,"food_commodity_typology":"NUTS PASTE"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"HAZELNUT PASTE","CF_food_item":1.685,"food_commodity_typology":"NUTS PASTE"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"PEANUT BUTTER","CF_food_item":1.15,"food_commodity_typology":"NUTS PASTE"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"PEANUT PASTE","CF_food_item":1.84,"food_commodity_typology":"NUTS PASTE"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"OLIVE OIL","CF_food_item":3.265,"food_commodity_typology":"OIL"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"PALM OIL","CF_food_item":2.432,"food_commodity_typology":"OIL"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"PEANUT OIL","CF_food_item":2.8975,"food_commodity_typology":"OIL"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"RAPESEED OIL","CF_food_item":1.78604,"food_commodity_typology":"OIL"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"SOYBEAN OIL","CF_food_item":1.787,"food_commodity_typology":"OIL"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"SUNFLOWER OIL","CF_food_item":0.9846,"food_commodity_typology":"OIL"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"PASTA*","CF_food_item":1.2055,"food_commodity_typology":"PASTA*"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"PESTO","CF_food_item":2.713,"food_commodity_typology":"PESTO"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"PESTO WITHOUT GARLIC","CF_food_item":2.717,"food_commodity_typology":"PESTO"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"BEET SUGAR","CF_food_item":0.94,"food_commodity_typology":"SUGAR"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"CANE SUGAR","CF_food_item":0.62367,"food_commodity_typology":"SUGAR"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"CAKES AND CROISSANT**","CF_food_item":2.139,"food_commodity_typology":"SWEETS"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"COCOA CAKES AND CROISSANT**","CF_food_item":1.9365,"food_commodity_typology":"SWEETS"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"TOMATO CHOPPED","CF_food_item":1.47275,"food_commodity_typology":"TOMATO PUREE,PEELED, CHOPPED"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"TOMATO PEELED","CF_food_item":1.2989,"food_commodity_typology":"TOMATO PUREE,PEELED, CHOPPED"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"TOMATO PUREE","CF_food_item":1.0311,"food_commodity_typology":"TOMATO PUREE,PEELED, CHOPPED"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"TOMATO & BASIL","CF_food_item":1.1415,"food_commodity_typology":"TOMATO SAUCE"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"TOMATO ARRABBIATA","CF_food_item":1.244,"food_commodity_typology":"TOMATO SAUCE"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"CARROTS CANNED","CF_food_item":1.6,"food_commodity_typology":"VEGETABLES CANNED"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"CORN CANNED","CF_food_item":1.355,"food_commodity_typology":"VEGETABLES CANNED"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"CARROTS (F)","CF_food_item":0.267,"food_commodity_typology":"VEGETABLES FROZEN"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"ZUCCHINI (F)","CF_food_item":1.35,"food_commodity_typology":"VEGETABLES FROZEN"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"SOY CREAM*","CF_food_item":1.62,"food_commodity_typology":"VEGETAL CREAM* (soy cream)"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"ALMOND MILK","CF_food_item":0.4179027998,"food_commodity_typology":"VEGETAL MILK"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"COCONUT MILK","CF_food_item":0.4126201796,"food_commodity_typology":"VEGETAL MILK"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"RICE MILK","CF_food_item":0.6602,"food_commodity_typology":"VEGETAL MILK"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"SOY MILK","CF_food_item":0.78,"food_commodity_typology":"VEGETAL MILK"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"QUORNE","CF_food_item":2.5,"food_commodity_typology":"VEGETAL PROTEINS"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"SOY BURGER","CF_food_item":1.48,"food_commodity_typology":"VEGETAL PROTEINS"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"TOFU","CF_food_item":2.27,"food_commodity_typology":"VEGETAL PROTEINS"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"SOY YOGURT*","CF_food_item":1.36,"food_commodity_typology":"VEGETAL YOGURT (soy yogurt)"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"WINE RED","CF_food_item":0.873,"food_commodity_typology":"WINE"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"WINE WHITE","CF_food_item":0.4444,"food_commodity_typology":"WINE"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"YEAST COMPRESSED*","CF_food_item":0.824,"food_commodity_typology":"YEAST COMPRESSED*"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"YEAST DRIED*","CF_food_item":3.294,"food_commodity_typology":"YEAST DRIED*"}
+{"food_commodity_group":"AGRICULTURAL PROCESSED","food_commodity_item":"YEAST LIQUID*","CF_food_item":0.503,"food_commodity_typology":"YEAST LIQUID*"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"BEEF BONE FREE MEAT*","CF_food_item":25.751,"food_commodity_typology":"BEEF BONE FREE MEAT*"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"BEEF MEAT WITH BONE*","CF_food_item":17.9582,"food_commodity_typology":"BEEF MEAT WITH BONE*"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"BUFFALO BONE FREE MEAT*","CF_food_item":78.80017544,"food_commodity_typology":"BUFFALO BONE FREE MEAT*"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"BUTTER*","CF_food_item":8.48,"food_commodity_typology":"BUTTER*"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"CREAM","CF_food_item":5.45,"food_commodity_typology":"CHEESE FRESH"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"MASCARPONE","CF_food_item":5.7,"food_commodity_typology":"CHEESE FRESH"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"MOZZARELLA","CF_food_item":8.2,"food_commodity_typology":"CHEESE FRESH"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"RICOTTA","CF_food_item":3.4,"food_commodity_typology":"CHEESE FRESH"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"STRACCHINO","CF_food_item":4.92,"food_commodity_typology":"CHEESE FRESH"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"ASIAGO","CF_food_item":10.24,"food_commodity_typology":"CHEESE HARD & SEMI-HARD"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"CAMEMBERT","CF_food_item":7.55,"food_commodity_typology":"CHEESE HARD & SEMI-HARD"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"CEDDAR","CF_food_item":11.207,"food_commodity_typology":"CHEESE HARD & SEMI-HARD"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"CHEESE","CF_food_item":8.933333333,"food_commodity_typology":"CHEESE HARD & SEMI-HARD"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"CHEESE SEMI-HARD","CF_food_item":8.647,"food_commodity_typology":"CHEESE HARD & SEMI-HARD"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"EMMENTAL","CF_food_item":8.2,"food_commodity_typology":"CHEESE HARD & SEMI-HARD"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"GOAT CHEESE","CF_food_item":8.35,"food_commodity_typology":"CHEESE HARD & SEMI-HARD"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"GRANA PADANO","CF_food_item":15.34,"food_commodity_typology":"CHEESE HARD & SEMI-HARD"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"PARMIGIANO REGGIANO","CF_food_item":12.54,"food_commodity_typology":"CHEESE HARD & SEMI-HARD"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"PECORINO","CF_food_item":17.15,"food_commodity_typology":"CHEESE HARD & SEMI-HARD"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"MEALWORMS*","CF_food_item":2.84,"food_commodity_typology":"EDIBLE INSECTS* (mealworms)"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"EGGS*","CF_food_item":3.2,"food_commodity_typology":"EGGS*"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"HONEY*","CF_food_item":1.7425,"food_commodity_typology":"HONEY*"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"KANGAROO MEAT*","CF_food_item":4.1,"food_commodity_typology":"KANGAROO MEAT*"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"LAMB BONE FREE MEAT*","CF_food_item":25.23255814,"food_commodity_typology":"LAMB BONE FREE MEAT*"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"LAMB MEAT WITH BONE*","CF_food_item":16.70108837,"food_commodity_typology":"LAMB MEAT WITH BONE*"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"BUFFALO MILK","CF_food_item":3.57,"food_commodity_typology":"MILK"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"COW MILK","CF_food_item":1.305,"food_commodity_typology":"MILK"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"GOAT MILK","CF_food_item":1.437,"food_commodity_typology":"MILK"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"PORK BONE FREE MEAT*","CF_food_item":5.716744186,"food_commodity_typology":"PORK BONE FREE MEAT*"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"BACON","CF_food_item":4.025,"food_commodity_typology":"PORK CURED MEAT"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"NECK","CF_food_item":4.025,"food_commodity_typology":"PORK CURED MEAT"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"PORK HAM","CF_food_item":7.945,"food_commodity_typology":"PORK CURED MEAT"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"PORK SAUSAGES","CF_food_item":17.94,"food_commodity_typology":"PORK CURED MEAT"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"PORK MEAT WITH BONE*","CF_food_item":3.444,"food_commodity_typology":"PORK MEAT WITH BONE*"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"CHICKEN BONE FREE MEAT","CF_food_item":3.676746753,"food_commodity_typology":"POULTRY BONE FREE MEAT"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"EMU BONE FREE MEAT","CF_food_item":1.5,"food_commodity_typology":"POULTRY BONE FREE MEAT"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"DUCK MEAT BONE FREE*","CF_food_item":4.1,"food_commodity_typology":"POULTRY BONE FREE MEAT"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"TURKEY MEAT BONE FREE","CF_food_item":4.084444445,"food_commodity_typology":"POULTRY BONE FREE MEAT"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"CHICKEN MEAT WITH BONE","CF_food_item":2.8221,"food_commodity_typology":"POULTRY MEAT WITH BONE"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"DUCK MEAT WITH BONE*","CF_food_item":2.07,"food_commodity_typology":"POULTRY MEAT WITH BONE"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"TURKEY MEAT WITH BONE","CF_food_item":2.13,"food_commodity_typology":"POULTRY MEAT WITH BONE"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"RABBIT MEAT WITH BONE*","CF_food_item":4.305,"food_commodity_typology":"RABBIT MEAT WITH BONE*"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"SNAILS*","CF_food_item":0.73,"food_commodity_typology":"SNAILS*"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"YOGURT FLAVOURED**","CF_food_item":2.8532,"food_commodity_typology":"YOGURT"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"YOGURT LACTOSE FREE","CF_food_item":3.47,"food_commodity_typology":"YOGURT"}
+{"food_commodity_group":"ANIMAL HUSBANDRY","food_commodity_item":"YOGURT WHITE","CF_food_item":1.69,"food_commodity_typology":"YOGURT"}
+{"food_commodity_group":"CROPS","food_commodity_item":"COFFEE GREEN*","CF_food_item":0.486,"food_commodity_typology":"COFFEE GREEN*"}
+{"food_commodity_group":"CROPS","food_commodity_item":"DATE","CF_food_item":0.6,"food_commodity_typology":"DRIED FRUIT"}
+{"food_commodity_group":"CROPS","food_commodity_item":"RAISIN","CF_food_item":0.81,"food_commodity_typology":"DRIED FRUIT"}
+{"food_commodity_group":"CROPS","food_commodity_item":"EXOTIC FRUIT (G)","CF_food_item":2.43,"food_commodity_typology":"FRUIT HEATED GREENHOUSE"}
+{"food_commodity_group":"CROPS","food_commodity_item":"RASPBERRY (G)","CF_food_item":7.35,"food_commodity_typology":"FRUIT HEATED GREENHOUSE"}
+{"food_commodity_group":"CROPS","food_commodity_item":"STRAWBERRY (G)","CF_food_item":2.884587629,"food_commodity_typology":"FRUIT HEATED GREENHOUSE"}
+{"food_commodity_group":"CROPS","food_commodity_item":"AVOCADO (I)","CF_food_item":1.09,"food_commodity_typology":"FRUIT IMPORTED"}
+{"food_commodity_group":"CROPS","food_commodity_item":"BANANA (I)","CF_food_item":0.8175,"food_commodity_typology":"FRUIT IMPORTED"}
+{"food_commodity_group":"CROPS","food_commodity_item":"COCONUT (I)","CF_food_item":1.78,"food_commodity_typology":"FRUIT IMPORTED"}
+{"food_commodity_group":"CROPS","food_commodity_item":"EXOTIC FRUIT (I)","CF_food_item":2.43,"food_commodity_typology":"FRUIT IMPORTED"}
+{"food_commodity_group":"CROPS","food_commodity_item":"PINEAPPLE (I)","CF_food_item":0.5454545455,"food_commodity_typology":"FRUIT IMPORTED"}
+{"food_commodity_group":"CROPS","food_commodity_item":"POMEGRANATE (I)","CF_food_item":1.165384615,"food_commodity_typology":"FRUIT IMPORTED"}
+{"food_commodity_group":"CROPS","food_commodity_item":"STRAWBERRY (I)","CF_food_item":0.837,"food_commodity_typology":"FRUIT IMPORTED"}
+{"food_commodity_group":"CROPS","food_commodity_item":"MELON (g)*","CF_food_item":1.4285,"food_commodity_typology":"FRUIT NOT HEATED GREENHOUSE* (melon)"}
+{"food_commodity_group":"CROPS","food_commodity_item":"CLEMENTINE","CF_food_item":0.409,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"LEMON","CF_food_item":0.22,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"LIME","CF_food_item":0.22,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"MANDARIN","CF_food_item":0.446,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"ORANGE","CF_food_item":0.3,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"POMELO","CF_food_item":0.51,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"TANGERIN","CF_food_item":0.384545,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"APPLE","CF_food_item":0.2539,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"APRICOT","CF_food_item":0.296,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"AVOCADO","CF_food_item":0.5405,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"BANANA","CF_food_item":0.34,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"CARROB","CF_food_item":1.1035,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"CHERRY","CF_food_item":0.458,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"FIG","CF_food_item":0.258,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"GRAPES","CF_food_item":0.31,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"GUAVA","CF_food_item":0.279,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"KIWI","CF_food_item":0.4944,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"MANGO","CF_food_item":0.309,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"MELON","CF_food_item":0.612545,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"PEACH","CF_food_item":0.385,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"PEAR","CF_food_item":0.274,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"PINEAPPLE","CF_food_item":0.28,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"PLUM","CF_food_item":0.258,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"POMEGRANATE","CF_food_item":0.32,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"ROCKMELON","CF_food_item":0.39,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"WATERMELON","CF_food_item":0.52,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"OLIVES","CF_food_item":0.636,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"BLACKBERRY","CF_food_item":0.421,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"BLUEBERRY","CF_food_item":0.775,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"CRANBERRY","CF_food_item":0.87,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"CURRANT","CF_food_item":0.6385,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"GOOSEBERRY","CF_food_item":0.84,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"RASPBERRY","CF_food_item":0.632,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"STRAWBERRY","CF_food_item":0.61,"food_commodity_typology":"FRUIT OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"BARLEY","CF_food_item":0.48,"food_commodity_typology":"GRAINS"}
+{"food_commodity_group":"CROPS","food_commodity_item":"MAIZE","CF_food_item":0.48,"food_commodity_typology":"GRAINS"}
+{"food_commodity_group":"CROPS","food_commodity_item":"MILLET","CF_food_item":0.855,"food_commodity_typology":"GRAINS"}
+{"food_commodity_group":"CROPS","food_commodity_item":"OAT","CF_food_item":0.67,"food_commodity_typology":"GRAINS"}
+{"food_commodity_group":"CROPS","food_commodity_item":"QUINOA","CF_food_item":0.974,"food_commodity_typology":"GRAINS"}
+{"food_commodity_group":"CROPS","food_commodity_item":"RYE","CF_food_item":0.38,"food_commodity_typology":"GRAINS"}
+{"food_commodity_group":"CROPS","food_commodity_item":"SORGHUM","CF_food_item":0.88,"food_commodity_typology":"GRAINS"}
+{"food_commodity_group":"CROPS","food_commodity_item":"WHEAT","CF_food_item":0.5715,"food_commodity_typology":"GRAINS"}
+{"food_commodity_group":"CROPS","food_commodity_item":"BEAN","CF_food_item":0.433,"food_commodity_typology":"LEGUMES"}
+{"food_commodity_group":"CROPS","food_commodity_item":"CHICKPEA","CF_food_item":0.77,"food_commodity_typology":"LEGUMES"}
+{"food_commodity_group":"CROPS","food_commodity_item":"COWPEA","CF_food_item":0.485,"food_commodity_typology":"LEGUMES"}
+{"food_commodity_group":"CROPS","food_commodity_item":"GREEN BEAN (fresh)","CF_food_item":0.515,"food_commodity_typology":"LEGUMES"}
+{"food_commodity_group":"CROPS","food_commodity_item":"LENTIL","CF_food_item":1.03,"food_commodity_typology":"LEGUMES"}
+{"food_commodity_group":"CROPS","food_commodity_item":"PEA","CF_food_item":0.446,"food_commodity_typology":"LEGUMES"}
+{"food_commodity_group":"CROPS","food_commodity_item":"SOYBEAN","CF_food_item":0.5602,"food_commodity_typology":"LEGUMES"}
+{"food_commodity_group":"CROPS","food_commodity_item":"GREEN BEAN (fresh) (g)*","CF_food_item":0.2755,"food_commodity_typology":"LEGUMES NOT HEATED GREENHOUSE (green bean)"}
+{"food_commodity_group":"CROPS","food_commodity_item":"MUSHROOM*","CF_food_item":2.062835052,"food_commodity_typology":"MUSHROOM*"}
+{"food_commodity_group":"CROPS","food_commodity_item":"ALMOND","CF_food_item":1.88,"food_commodity_typology":"NUTS"}
+{"food_commodity_group":"CROPS","food_commodity_item":"CASHEW NUT","CF_food_item":1.382,"food_commodity_typology":"NUTS"}
+{"food_commodity_group":"CROPS","food_commodity_item":"CHESTNUT","CF_food_item":0.44,"food_commodity_typology":"NUTS"}
+{"food_commodity_group":"CROPS","food_commodity_item":"HAZELNUT","CF_food_item":1.112,"food_commodity_typology":"NUTS"}
+{"food_commodity_group":"CROPS","food_commodity_item":"MIXED NUTS","CF_food_item":0.47,"food_commodity_typology":"NUTS"}
+{"food_commodity_group":"CROPS","food_commodity_item":"PALM NUT","CF_food_item":0.8,"food_commodity_typology":"NUTS"}
+{"food_commodity_group":"CROPS","food_commodity_item":"PEANUT","CF_food_item":0.8305,"food_commodity_typology":"NUTS"}
+{"food_commodity_group":"CROPS","food_commodity_item":"PISTACHIO","CF_food_item":1.6,"food_commodity_typology":"NUTS"}
+{"food_commodity_group":"CROPS","food_commodity_item":"WALNUT","CF_food_item":2.06,"food_commodity_typology":"NUTS"}
+{"food_commodity_group":"CROPS","food_commodity_item":"RICE*","CF_food_item":2.1887804878,"food_commodity_typology":"RICE*"}
+{"food_commodity_group":"CROPS","food_commodity_item":"RAPE SEED","CF_food_item":0.782,"food_commodity_typology":"SEEDS"}
+{"food_commodity_group":"CROPS","food_commodity_item":"SESAM SEED","CF_food_item":0.88,"food_commodity_typology":"SEEDS"}
+{"food_commodity_group":"CROPS","food_commodity_item":"SUNFLOWER SEED","CF_food_item":1.1595,"food_commodity_typology":"SEEDS"}
+{"food_commodity_group":"CROPS","food_commodity_item":"CHILLY","CF_food_item":0.8,"food_commodity_typology":"SPICIES"}
+{"food_commodity_group":"CROPS","food_commodity_item":"GINGER","CF_food_item":0.88,"food_commodity_typology":"SPICIES"}
+{"food_commodity_group":"CROPS","food_commodity_item":"POTATO","CF_food_item":0.24,"food_commodity_typology":"STARCHY TUBERS"}
+{"food_commodity_group":"CROPS","food_commodity_item":"STARCHY ROOTS","CF_food_item":0.29,"food_commodity_typology":"STARCHY TUBERS"}
+{"food_commodity_group":"CROPS","food_commodity_item":"SWEET POTATO","CF_food_item":0.27,"food_commodity_typology":"STARCHY TUBERS"}
+{"food_commodity_group":"CROPS","food_commodity_item":"CUCUMBER (G)","CF_food_item":2.54609375,"food_commodity_typology":"VEGETABLES HEATED GREENHOUSE"}
+{"food_commodity_group":"CROPS","food_commodity_item":"GERKIN (G)","CF_food_item":2.115,"food_commodity_typology":"VEGETABLES HEATED GREENHOUSE"}
+{"food_commodity_group":"CROPS","food_commodity_item":"LETTUCE (G)","CF_food_item":2.67,"food_commodity_typology":"VEGETABLES HEATED GREENHOUSE"}
+{"food_commodity_group":"CROPS","food_commodity_item":"PEPPER (G)","CF_food_item":3.725,"food_commodity_typology":"VEGETABLES HEATED GREENHOUSE"}
+{"food_commodity_group":"CROPS","food_commodity_item":"TOMATO (G)","CF_food_item":2.425,"food_commodity_typology":"VEGETABLES HEATED GREENHOUSE"}
+{"food_commodity_group":"CROPS","food_commodity_item":"CUCUMBER (g)","CF_food_item":0.32,"food_commodity_typology":"VEGETABLES NOT HEATED GREENHOUSE"}
+{"food_commodity_group":"CROPS","food_commodity_item":"EGGPLANT (g)","CF_food_item":2.9,"food_commodity_typology":"VEGETABLES NOT HEATED GREENHOUSE"}
+{"food_commodity_group":"CROPS","food_commodity_item":"PEPPER (g)","CF_food_item":1.175,"food_commodity_typology":"VEGETABLES NOT HEATED GREENHOUSE"}
+{"food_commodity_group":"CROPS","food_commodity_item":"TOMATO (g)","CF_food_item":0.90855,"food_commodity_typology":"VEGETABLES NOT HEATED GREENHOUSE"}
+{"food_commodity_group":"CROPS","food_commodity_item":"ZUCCHINI (g)","CF_food_item":1.7714,"food_commodity_typology":"VEGETABLES NOT HEATED GREENHOUSE"}
+{"food_commodity_group":"CROPS","food_commodity_item":"ASPARAGUS","CF_food_item":0.83,"food_commodity_typology":"VEGETABLES OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"CABAGGE","CF_food_item":0.234,"food_commodity_typology":"VEGETABLES OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"LETTUCE","CF_food_item":0.41,"food_commodity_typology":"VEGETABLES OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"SPINACH","CF_food_item":0.338,"food_commodity_typology":"VEGETABLES OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"BEETROOT","CF_food_item":0.245,"food_commodity_typology":"VEGETABLES OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"CARROT","CF_food_item":0.235,"food_commodity_typology":"VEGETABLES OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"GARLIC","CF_food_item":0.708,"food_commodity_typology":"VEGETABLES OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"ONION","CF_food_item":0.2223,"food_commodity_typology":"VEGETABLES OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"RADISH","CF_food_item":0.15379,"food_commodity_typology":"VEGETABLES OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"SWEDE","CF_food_item":0.29,"food_commodity_typology":"VEGETABLES OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"TURNIP","CF_food_item":0.35,"food_commodity_typology":"VEGETABLES OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"ARTICHOKE","CF_food_item":0.33,"food_commodity_typology":"VEGETABLES OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"BROCCOLI","CF_food_item":0.57,"food_commodity_typology":"VEGETABLES OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"CAULIFLOWER","CF_food_item":0.3075,"food_commodity_typology":"VEGETABLES OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"CELERY","CF_food_item":0.32,"food_commodity_typology":"VEGETABLES OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"CUCUMBER","CF_food_item":0.27,"food_commodity_typology":"VEGETABLES OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"EGGPLANT","CF_food_item":0.191,"food_commodity_typology":"VEGETABLES OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"FENNEL","CF_food_item":0.48,"food_commodity_typology":"VEGETABLES OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"GERKIN","CF_food_item":0.21,"food_commodity_typology":"VEGETABLES OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"PEPPER","CF_food_item":0.6535,"food_commodity_typology":"VEGETABLES OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"PUMPKIN","CF_food_item":0.2362540984,"food_commodity_typology":"VEGETABLES OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"TOMATO","CF_food_item":0.4541,"food_commodity_typology":"VEGETABLES OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"VEGETABLES","CF_food_item":0.535,"food_commodity_typology":"VEGETABLES OPENFIELD"}
+{"food_commodity_group":"CROPS","food_commodity_item":"ZUCCHINI","CF_food_item":0.7,"food_commodity_typology":"VEGETABLES OPENFIELD"}
+{"food_commodity_group":"FISHING","food_commodity_item":"ALFONSINO","CF_food_item":3.49,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"ANCHOVY","CF_food_item":0.82065,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"ANGLERFISH","CF_food_item":12.2922,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"CARP","CF_food_item":1.762,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"CATFISH","CF_food_item":8.93,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"COD","CF_food_item":3.08,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"DIAMOND FISH","CF_food_item":6.017,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"EEL","CF_food_item":3.88,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"FISH MIXED","CF_food_item":4.988,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"FLATFISH","CF_food_item":6.406,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"FLATHEAD","CF_food_item":2.56,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"FORK BEARD","CF_food_item":8.0086,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"HADDOCK","CF_food_item":3.1,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"HAKE","CF_food_item":10.4006,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"HERRING","CF_food_item":1.242,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"LING","CF_food_item":6.4486,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"MACKEREL","CF_food_item":1.8,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"MEGRIM","CF_food_item":14.1544,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"PILCHARD","CF_food_item":1.0968,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"PLAICE","CF_food_item":6.13,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"POLLOCK","CF_food_item":1.4,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"POMFRET","CF_food_item":6.6286,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"PORBEAGLE","CF_food_item":11.436,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"RHOMBUS","CF_food_item":8.41,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"ROCK FISH","CF_food_item":6.94,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"SALMON","CF_food_item":3.3734,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"SARDINE","CF_food_item":0.9,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"SEA-BASS","CF_food_item":3.6,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"SHARK","CF_food_item":11.436,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"SOLE","CF_food_item":5.4,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"SWARDFISH","CF_food_item":12.838,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"TROUT","CF_food_item":4.2,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"TUNA","CF_food_item":3.675625,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"TURBOT","CF_food_item":14.5136,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"WHITING","CF_food_item":2.6632,"food_commodity_typology":"FISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"COD (F)","CF_food_item":3.025,"food_commodity_typology":"FISH FROZEN"}
+{"food_commodity_group":"FISHING","food_commodity_item":"FISH STICK (F)","CF_food_item":2.260802469,"food_commodity_typology":"FISH FROZEN"}
+{"food_commodity_group":"FISHING","food_commodity_item":"HADDOCK (F)","CF_food_item":3.72,"food_commodity_typology":"FISH FROZEN"}
+{"food_commodity_group":"FISHING","food_commodity_item":"HERRING (F)","CF_food_item":1.295,"food_commodity_typology":"FISH FROZEN"}
+{"food_commodity_group":"FISHING","food_commodity_item":"MACKEREL (F)","CF_food_item":0.99,"food_commodity_typology":"FISH FROZEN"}
+{"food_commodity_group":"FISHING","food_commodity_item":"MIXED FISH (F)","CF_food_item":1.04,"food_commodity_typology":"FISH FROZEN"}
+{"food_commodity_group":"FISHING","food_commodity_item":"POLLOCK (F)","CF_food_item":0.895,"food_commodity_typology":"FISH FROZEN"}
+{"food_commodity_group":"FISHING","food_commodity_item":"POLLOCK STICK (F)","CF_food_item":2.14,"food_commodity_typology":"FISH FROZEN"}
+{"food_commodity_group":"FISHING","food_commodity_item":"SALMON (F)","CF_food_item":1.61,"food_commodity_typology":"FISH FROZEN"}
+{"food_commodity_group":"FISHING","food_commodity_item":"SOLE (F)","CF_food_item":14.278,"food_commodity_typology":"FISH FROZEN"}
+{"food_commodity_group":"FISHING","food_commodity_item":"TROUT (F)","CF_food_item":4.375,"food_commodity_typology":"FISH FROZEN"}
+{"food_commodity_group":"FISHING","food_commodity_item":"TUNA (F)","CF_food_item":2.64,"food_commodity_typology":"FISH FROZEN"}
+{"food_commodity_group":"FISHING","food_commodity_item":"COD FISH STICK","CF_food_item":2.14,"food_commodity_typology":"FISH PROCESSED"}
+{"food_commodity_group":"FISHING","food_commodity_item":"HAKE FISH STICK","CF_food_item":2.14,"food_commodity_typology":"FISH PROCESSED"}
+{"food_commodity_group":"FISHING","food_commodity_item":"MAKEREL FISH STICK","CF_food_item":1.01654321,"food_commodity_typology":"FISH PROCESSED"}
+{"food_commodity_group":"FISHING","food_commodity_item":"TUNA IN CAN","CF_food_item":2.1,"food_commodity_typology":"FISH PROCESSED"}
+{"food_commodity_group":"FISHING","food_commodity_item":"BARNACLE","CF_food_item":2.295,"food_commodity_typology":"SHELLFISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"KRILL","CF_food_item":5.54,"food_commodity_typology":"SHELLFISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"LOBSTER","CF_food_item":20.25,"food_commodity_typology":"SHELLFISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"MUSSELS","CF_food_item":0.4649,"food_commodity_typology":"SHELLFISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"CUTTLEFISH","CF_food_item":5.05,"food_commodity_typology":"SHELLFISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"OCTOPUS","CF_food_item":5.8,"food_commodity_typology":"SHELLFISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"SQUID","CF_food_item":6.91,"food_commodity_typology":"SHELLFISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"PRAWNS\/SHRIMPS","CF_food_item":7.04,"food_commodity_typology":"SHELLFISH"}
+{"food_commodity_group":"FISHING","food_commodity_item":"OCTOPUS (F)","CF_food_item":7.878611111,"food_commodity_typology":"SHELLFISH FROZEN"}
+{"food_commodity_group":"FISHING","food_commodity_item":"PRAWNS\/SHRIMPS (F)","CF_food_item":15.065,"food_commodity_typology":"SHELLFISH FROZEN"}
